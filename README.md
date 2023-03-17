@@ -16,9 +16,11 @@
 - :camera_flash: Photography blog: https://unsplash.com/@isaacmaffo96
 - :link: All my links: https://linktr.ee/isaacmaffeis
 
+<!--
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/isaacmaffo96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/isaac.maffeis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/isaacmaffo96/)  
 
-
+-->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaacmaffo96&show_icons=true&theme=dark&locale=en" alt="isaacmaffo96" /></p>
