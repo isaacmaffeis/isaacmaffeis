@@ -23,6 +23,7 @@
 <h3 align="left">:raising_hand_man: Connect with me:</h3>
 
 - 📫 How to reach me: isaacmaffeis@gmail.com 
+- :computer: LeetCode: https://leetcode.com/Isaacmaffo96/
 - :camera_flash: Photography blog: https://unsplash.com/@isaacmaffo96
 - :link: All my links: https://linktr.ee/isaacmaffeis
 
