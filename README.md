@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 
-- :books: I am currently studying for my master's degree in computer engineering.<br>
-- :dart: My goal is to learn and improve every day, I'm here to learn new languages, study new techniques and in general, increase my programming skills.<br> 
-- :camera_flash: I have a passion for photography, I love being in nature and traveling the world.
+- :books: Currently pursuing a master's degree in computer engineering.<br>
+- :dart: Committed to daily self-improvement, enhancing personal growth and engineering skills for impactful contributions.<br> 
+- :camera_flash: Deeply passionate about photography, embracing the beauty of nature and exploring the world through my lens.<br> 
 
 <h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
 <p align="left"> 
@@ -22,9 +22,9 @@
 <h2></h2>
 <h3 align="left">:raising_hand_man: Connect with me:</h3>
 
-- 📫 How to reach me: isaacmaffeis@gmail.com 
-- :computer: LeetCode: https://leetcode.com/Isaacmaffo96/
-- :link: All my links: https://linktr.ee/isaacmaffeis
+- 📫 mail: isaacmaffeis@gmail.com
+<!-- - :computer: LeetCode: https://leetcode.com/Isaacmaffo96/ -->
+- :link: links: https://linktr.ee/isaacmaffeis
 
 <!--
 
