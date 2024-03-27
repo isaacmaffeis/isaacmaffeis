@@ -23,7 +23,7 @@
 <h3 align="left">:raising_hand_man: Connect with me:</h3>
 
 - 📫 mail: isaacmaffeis@gmail.com
-<!-- - :computer: LeetCode: https://leetcode.com/Isaacmaffo96/ -->
+- :computer: LeetCode: https://leetcode.com/Isaacmaffo96/
 - :link: links: https://linktr.ee/isaacmaffeis
 
 <!--
