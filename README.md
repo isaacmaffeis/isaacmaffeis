@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 
-- :books: Currently pursuing a master's degree in computer engineering.<br>
+- :books: I've a master's degree in computer engineering.<br>
 - :dart: Committed to daily self-improvement, enhancing personal growth and engineering skills for impactful contributions.<br> 
 - :camera_flash: Deeply passionate about photography, embracing the beauty of nature and exploring the world through my lens.<br> 
 
